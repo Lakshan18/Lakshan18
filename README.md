@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React.js, Next.js, Android, java, javascript**
+- 💬 Ask me about **React.js, Next.js, Android, java, Flutter, javascript**
 
 - 📫 How to reach me **lakshanvlogs3276@gmail.com**
 
