@@ -1,85 +1,148 @@
-<h1 align="center">👋 Hi, I'm Lakshan Maduranga</h1>
+<!-- ========================================================= -->
 
-<h3 align="center">
-  Software Developer · Web · Mobile · Desktop · Business Applications
-</h3>
+<!--                    LAKSHAN MADURANGA                      -->
 
-<p align="center">
-  <em>Building software across platforms and turning ideas into real applications.</em>
-</p>
+<!--                 GitHub Profile README                     -->
 
-<p align="center">
-  🇱🇰 Sri Lanka &nbsp;•&nbsp;
-  💻 Software Development &nbsp;•&nbsp;
-  🚀 Continuous Learning
-</p>
+<!-- ========================================================= -->
 
-<p align="center">
-  <a href="mailto:lakshanvlogs3276@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-18181B?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/lakshan18">
-    <img src="https://img.shields.io/badge/GitHub-lakshan18-18181B?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+# 👋 Hi, I'm Lakshan Maduranga
+
+### Software Developer
+
+**Web • Mobile • Desktop • Business Applications**
+
+<br />
+
+<a href="https://github.com/lakshan18">
+  <img src="https://komarev.com/ghpvc/?username=lakshan18&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</a>
+
+<a href="https://github.com/lakshan18?tab=followers">
+  <img src="https://img.shields.io/github/followers/lakshan18?label=FOLLOWERS&style=for-the-badge&color=181717" alt="GitHub Followers" />
+</a>
+
+<a href="https://github.com/lakshan18?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-GitHub-181717?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+> **Building software across platforms, learning continuously, and turning ideas into real applications. 🚀**
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a passionate **Software Developer from Sri Lanka 🇱🇰** who enjoys building different types of software applications.
+I'm a **Software Developer from Sri Lanka 🇱🇰** who enjoys building complete software solutions across multiple platforms.
 
-My experience and interests cover multiple platforms — from modern web applications and mobile apps to desktop/standalone software and business management systems.
+I don't limit myself to a single application type. I enjoy working with:
 
-I enjoy working across the complete development lifecycle:
+* 🌐 Web Applications
+* 📱 Mobile Applications
+* 🖥️ Desktop Applications
+* 🏢 Business Management Systems
+* 📊 ERP-style Applications
+* 🔌 REST APIs
+* 🗄️ Database-driven Systems
+* ☁️ Cloud & Deployment
 
-**Idea → Design → Development → API → Database → Testing → Deployment**
+My development journey has allowed me to work across the **frontend, backend, database, API, application architecture and deployment layers**.
 
-I'm particularly interested in building practical software that solves real-world problems.
+### My Development Flow
+
+```text
+       💡 IDEA
+          │
+          ▼
+      🎨 DESIGN
+          │
+          ▼
+    💻 DEVELOPMENT
+          │
+          ▼
+    🔌 API / LOGIC
+          │
+          ▼
+      🗄️ DATABASE
+          │
+          ▼
+      🧪 TESTING
+          │
+          ▼
+     🚀 DEPLOYMENT
+```
 
 ---
 
-## 🧩 What I Build
+# 🧩 What I Build
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🌐
+## 🌐 Web Applications
 
-### Web
-
-Modern web applications, dashboards, SaaS platforms and business systems.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱
-
-### Mobile
-
-Cross-platform and Android applications with API integrations.
+* Modern responsive websites
+* Business platforms
+* Admin dashboards
+* SaaS applications
+* Management systems
+* REST API applications
+* Authentication systems
+* Database-driven applications
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🖥️
+## 📱 Mobile Applications
 
-### Desktop
+* Cross-platform applications
+* Android applications
+* Flutter applications
+* Business mobile apps
+* API-integrated applications
+* Firebase-powered applications
+* Authentication & data management
 
-Standalone and database-driven desktop applications.
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🖥️ Desktop Applications
+
+* Standalone applications
+* Java / JavaFX applications
+* Database-driven software
+* Business management systems
+* Internal company applications
+* Desktop utilities
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🏢
+## 🏢 Business Systems
 
-### Business
-
-ERP-style, management and workflow applications.
+* Employee management
+* Attendance systems
+* Timesheets
+* Leave management
+* Reporting systems
+* Workflow management
+* ERP-style applications
+* Business automation
 
 </td>
 </tr>
@@ -87,332 +150,504 @@ ERP-style, management and workflow applications.
 
 ---
 
-# 📊 Programming Language Analytics
+# 🛠️ Technology Ecosystem
 
-### 🥧 Language Distribution
+## 💻 Programming Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan18&layout=donut&langs_count=8&hide_border=true&theme=transparent"
-    width="420"
-    alt="Programming Language Distribution"
-  />
-</p>
+<div align="center">
 
-### 📈 Code Distribution
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,php,html,css" />
 
-<p align="center">
-  <img
-    src="github-stats/bar_by_bytes.png"
-    width="700"
-    alt="Programming Language Bar Chart"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Charts are generated from actual repository language data.
-  </sub>
-</p>
+</div>
 
 ---
 
-# 💻 Technology Stack
+## 🌐 Frontend & Web Development
 
-## Frontend
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
-<p align="center">
-  <b>React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Bootstrap</b>
-</p>
+</div>
 
 ---
 
-## Backend
+## ⚙️ Backend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,java" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Node.js · Express.js · ASP.NET Core · Python · Java · REST APIs</b>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+
+</div>
 
 ---
 
-## Mobile
+## 📱 Mobile Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Flutter · Dart · React Native · Android</b>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+
+</div>
 
 ---
 
-## Desktop
+## 🗄️ Databases & Data
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Java · JavaFX · Standalone Applications</b>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,prisma" />
+
+</div>
 
 ---
 
-## Database & Data
+## 🐳 DevOps & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,prisma" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>PostgreSQL · MySQL · MongoDB · Firebase · Prisma</b>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,aws" />
+
+</div>
 
 ---
 
-## Tools & Platforms
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Git · GitHub · Docker · Postman · Figma · Vercel</b>
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api?username=lakshan18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
+height="180"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan18&layout=donut&langs_count=8&hide_border=true&theme=transparent"
+height="180"
+alt="Top Programming Languages"
+/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshan18&theme=github_dark"
+height="180"
+alt="GitHub Summary Statistics"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshan18&theme=github_dark"
+height="180"
+alt="Most Commit Languages"
+/>
+
+</div>
 
 ---
 
-# 📊 Development Areas
+# 📈 Contribution Activity
 
-<table align="center">
-<tr>
-<th>Area</th>
-<th>Technologies</th>
-</tr>
+<div align="center">
 
-<tr>
-<td>🌐 Web Development</td>
-<td>React · Next.js · TypeScript · Node.js</td>
-</tr>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=lakshan18&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
+alt="Lakshan's Contribution Activity Graph"
+/>
 
-<tr>
-<td>📱 Mobile Development</td>
-<td>Flutter · Dart · React Native</td>
-</tr>
+</div>
 
-<tr>
-<td>🖥️ Desktop Development</td>
-<td>Java · JavaFX</td>
-</tr>
+---
 
-<tr>
-<td>🏢 Business Applications</td>
-<td>ERP · Management Systems · Workflow Systems</td>
-</tr>
+# 🔥 Contribution Streak
 
-<tr>
-<td>🔌 Backend & APIs</td>
-<td>Node.js · Express · ASP.NET Core · Python</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>🗄️ Databases</td>
-<td>PostgreSQL · MySQL · MongoDB · Firebase</td>
-</tr>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan18&theme=github-dark-blue&hide_border=true"
+alt="GitHub Contribution Streak"
+/>
 
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=lakshan18&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+# 📊 GitHub Profile Overview
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshan18&theme=github_dark"
+alt="GitHub Profile Details"
+/>
+
+</div>
+
+---
+
+# 📦 GitHub Activity Snapshot
+
+<div align="center">
+
+<table>
 <tr>
-<td>🐳 DevOps</td>
-<td>Docker · GitHub · Vercel · Cloud Deployment</td>
+
+<td align="center">
+<h3>📦 Repositories</h3>
+<img src="https://img.shields.io/github/repositories/lakshan18?style=for-the-badge&label=TOTAL" alt="Total Repositories" />
+</td>
+
+<td align="center">
+<h3>⭐ Stars</h3>
+<img src="https://img.shields.io/github/stars/lakshan18?style=for-the-badge&label=RECEIVED" alt="Stars Received" />
+</td>
+
+<td align="center">
+<h3>👥 Followers</h3>
+<img src="https://img.shields.io/github/followers/lakshan18?style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+</td>
+
 </tr>
 </table>
+
+</div>
+
+---
+
+# 💻 Programming Language Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan18&layout=pie&langs_count=10&hide_border=true&theme=transparent"
+height="300"
+alt="Programming Language Pie Chart"
+/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshan18&theme=github_dark"
+height="180"
+alt="Repositories Per Language"
+/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/lakshan18">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshan18&repo=Resume-Analyzer-AI&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/lakshan18">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshan18&repo=task-management-system&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+> ⚠️ **Important:** Replace the repository names above with your actual repository names.
+> The cards only work when the `repo=` value exactly matches a repository under `lakshan18`.
+
+---
+
+## 🤖 Resume Analyzer AI
+
+An AI-powered application designed to analyze resumes and provide intelligent career-oriented feedback.
+
+### Features
+
+* 📄 Resume analysis
+* 🎯 ATS-style scoring
+* 🧠 AI-powered suggestions
+* 🔍 Missing skill identification
+* 📊 Resume insights
+* 🔌 API integration
+
+### Technology
+
+`Next.js` `TypeScript` `Python` `AI` `REST API`
+
+---
+
+## ☀️ SK Energy Solar
+
+A modern corporate website developed for a solar energy company.
+
+### Features
+
+* 📱 Responsive design
+* 🎨 Modern UI
+* ✨ Smooth animations
+* 🖼️ Interactive sections
+* 💬 Testimonials carousel
+* 📩 Contact functionality
+
+### Technology
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Swiper`
+
+---
+
+## 📋 Task Management System
+
+A small full-stack project created to strengthen backend development and containerization skills.
+
+### Architecture
+
+```text
+Next.js
+   │
+   ▼
+ASP.NET Core API
+   │
+   ▼
+PostgreSQL
+   │
+   ▼
+Docker
+```
+
+### Technology
+
+`Next.js` `TypeScript` `ASP.NET Core` `PostgreSQL` `Docker`
+
+---
+
+## 🏢 Business Management Systems
+
+Experience building business-oriented systems containing features such as:
+
+* 👥 User Management
+* 🔐 Authentication & Authorization
+* ⏰ Attendance
+* 🕐 Timesheets
+* 📝 Leave Management
+* 📊 Reports
+* 📈 Analytics
+* 🔌 REST APIs
+* 🗄️ Database Management
+* 🔄 Business Workflows
+
+---
+
+# 🧠 Core Development Skills
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Resume Analyzer AI
+### Frontend
 
-AI-powered resume analysis platform for ATS-style analysis, skill identification and improvement suggestions.
-
-**Stack**
-
-`Next.js` `TypeScript` `Python` `AI`
+```text
+React.js
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+Bootstrap
+Responsive UI
+Component Architecture
+```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☀️ SK Energy Solar
+### Backend
 
-Modern corporate website for a solar energy company with responsive design, animations and interactive components.
-
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind` `Framer Motion`
+```text
+Node.js
+Express.js
+ASP.NET Core
+REST APIs
+Authentication
+Authorization
+Server-side Logic
+API Integration
+```
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📋 Task Management System
+### Database
 
-Full-stack task management system created to explore modern frontend, backend, database and containerization architecture.
-
-**Stack**
-
-`Next.js` `ASP.NET Core` `PostgreSQL` `Docker`
+```text
+PostgreSQL
+MySQL
+MongoDB
+Firebase
+Prisma ORM
+Database Design
+Relationships
+Queries
+```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Business Systems
+### Engineering
 
-Database-driven applications involving users, authentication, attendance, timesheets, leave management, reporting and business workflows.
-
-**Stack**
-
-`Next.js` `React` `Node.js` `PostgreSQL`
+```text
+Git
+GitHub
+Docker
+Postman
+Deployment
+Cloud Platforms
+System Architecture
+Problem Solving
+```
 
 </td>
 </tr>
 </table>
-
----
-
-# 📈 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lakshan18&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    height="180"
-    alt="GitHub Statistics"
-  />
-</p>
-
----
-
-# 🥧 GitHub Language Breakdown
-
-<p align="center">
-  <img
-    src="github-stats/pie_by_bytes.png"
-    width="500"
-    alt="GitHub Language Pie Chart"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="github-stats/donut_by_bytes.png"
-    width="500"
-    alt="GitHub Language Donut Chart"
-  />
-</p>
-
----
-
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=lakshan18&theme=transparent&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
 ---
 
 # 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,docker,python,flutter" />
-</p>
+I'm continuously improving my software engineering skills.
 
-<table align="center">
-<tr>
-<td align="center">⚙️<br><b>ASP.NET Core</b></td>
-<td align="center">🗄️<br><b>PostgreSQL</b></td>
-<td align="center">🐳<br><b>Docker</b></td>
-<td align="center">🐍<br><b>Python & AI</b></td>
-<td align="center">📱<br><b>Flutter</b></td>
-</tr>
-</table>
+<div align="center">
 
----
+| Area              | Focus                             |
+| ----------------- | --------------------------------- |
+| ⚙️ ASP.NET Core   | Backend development               |
+| 🗄️ PostgreSQL    | Advanced database development     |
+| 🐳 Docker         | Containerization                  |
+| 🏗️ System Design | Scalable application architecture |
+| 🔌 REST APIs      | Production API architecture       |
+| ☁️ Cloud          | Deployment & infrastructure       |
+| 📱 Flutter        | Mobile application development    |
+| 🚀 DevOps         | CI/CD & deployment workflows      |
 
-# 🎯 2026 Focus
-
-<p align="center">
-
-`System Design`  • 
-`Backend Architecture`  • 
-`ASP.NET Core`  • 
-`PostgreSQL`  • 
-`Docker`  • 
-`Cloud`  • 
-`AI`
-
-</p>
-
-My goal is to become a stronger **end-to-end Software Developer** capable of designing and developing complete applications across different platforms.
+</div>
 
 ---
 
-# 🧠 Development Philosophy
+# 🧭 My Development Philosophy
 
-<p align="center">
+<div align="center">
 
-### Learn → Build → Break → Understand → Improve
+### **Learn → Build → Break → Understand → Improve → Repeat**
 
-</p>
+</div>
 
-I believe the best way to grow as a developer is to build real applications, solve real problems, understand mistakes and continuously improve.
+I believe strong software development skills come from building real applications and solving real problems.
+
+I'm especially interested in:
+
+* 🔍 Understanding how systems work
+* 🧩 Solving technical problems
+* 🏗️ Designing complete applications
+* 📚 Learning new technologies
+* 🚀 Building real-world software
+* 🔄 Improving existing systems
+* 🧠 Understanding backend architecture
+* ☁️ Learning modern deployment practices
 
 ---
 
-# 📫 Let's Connect
+# 🎯 2026 Goals
 
-<p align="center">
+* 🚀 Become a stronger Software Developer
+* 🧠 Improve backend architecture
+* 🗄️ Become more confident with PostgreSQL
+* ⚙️ Improve ASP.NET Core
+* 🐳 Learn Docker deeply
+* ☁️ Improve cloud deployment knowledge
+* 🏗️ Build production-quality applications
+* 📱 Continue improving Flutter
+* 🔌 Improve API architecture
+* 🌍 Contribute to open-source projects
+* 📚 Keep learning consistently
+
+---
+
+# 📚 Development Journey
+
+```text
+                 SOFTWARE DEVELOPMENT
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+     FRONTEND          BACKEND          MOBILE
+        │                │                │
+   React / Next       Node / .NET       Flutter
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                         ▼
+                      DATABASE
+                         │
+              PostgreSQL / MySQL
+                         │
+                         ▼
+                     DEVOPS
+                         │
+                 Docker / Cloud
+                         │
+                         ▼
+                  PRODUCTION 🚀
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="mailto:lakshanvlogs3276@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/lakshan18">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=lakshan18&label=Profile%20Views&color=0e75b6&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>🚀 Building software across platforms, one project at a time.</b>
-</p>
+### 🚀 Building. Learning. Improving.
 
-<p align="center">
-  <i>Thanks for visiting my profile ⭐</i>
-</p>
+**Thanks for visiting my GitHub profile! ⭐**
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
