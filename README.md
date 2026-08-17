@@ -129,7 +129,7 @@ Employee management, attendance, timesheets, leave management, reports and workf
   <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Technologies">
 </p>
 
-**Flutter** · **Dart** · **React**
+**Flutter** · **Dart** · **React Native**
 
 ---
 
